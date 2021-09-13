@@ -1,5 +1,5 @@
-<div align="center">
-  <a href="https://emilakhadov.dev">
+<div id="banner" align="center">
+  <a href="#banner">
     <img src="assets/images/svg/header-banner.min.svg">
   </a>
 </div>
@@ -28,6 +28,12 @@
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?style=flat&logo=read-the-docs" />
   </a>
+  <a href="https://github.com/eakhadov/eakhadov">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/eakhadov?style=flat&color=fac7ff&logo=GitHub%20sponsors&logoColor=%23fff">
+  </a>
+  <a>
+    <img alt="Discord" src="https://img.shields.io/discord/884632106821636127?color=7289da&label=chat&logo=discord&logoColor=fff">
+  </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg" />
   </a>
@@ -39,6 +45,9 @@
 
 - :seedling: &nbsp;I’m currently learning **Go**
 - 📮 &nbsp;Ask me anything on my **[issues page]**
+- null
+- null
+- null
 
 <br>
 <br>
@@ -53,37 +62,55 @@
   <tr>
     <td align="center" width="96">
       <a href="#my-tech">
-        <img src="assets/icons/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="assets/icons/tech/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
       <a href="#my-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="assets/icons/tech/jsonnet.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Jsonnet
     </td>
     <td align="center" width="96">
       <a href="#my-tech">
-        <img src="assets/icons/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="assets/icons/tech/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#my-tech">
-        <img src="assets/icons/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="assets/icons/tech/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#my-tech">
-        <img src="assets/icons/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="assets/icons/tech/vue.svg" width="48" height="48" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="assets/icons/tech/php.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="assets/icons/tech/webpack.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="assets/icons/tech/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#my-tech">
-        <img src="assets/icons/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="assets/icons/tech/sass.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
@@ -91,27 +118,39 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#my-tech" >
-        <img src="assets/icons/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="assets/icons/tech/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="#my-tech">
-        <img src="assets/icons/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="assets/icons/tech/debian.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
     <td align="center"  width="96">
       <a href="#my-tech">
-        <img src="assets/icons/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="assets/icons/tech/redhat.svg" width="48" height="48" alt="RHEL" />
       </a>
       <br>RHEL
     </td>
     <td align="center"  width="96">
       <a href="#my-tech">
-        <img src="assets/icons/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="assets/icons/tech/mysql.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#my-tech">
+        <img src="assets/icons/tech/redis.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center"  width="96">
+      <a href="#my-tech">
+        <img src="assets/icons/tech/mongodb.svg" width="48" height="48" alt="mongoDB" />
+      </a>
+      <br>mongoDB
     </td>
   </tr>
 </table>
@@ -121,7 +160,7 @@ You can see my full tech **[here]**
 </br>
 </br>
 
-<p font-size="3px">Made with ❤️ for <strong>Github users</strong></p>
+<p>Made with ❤️ for <strong>Github users</strong></p>
 
 <!-- links -->
 
