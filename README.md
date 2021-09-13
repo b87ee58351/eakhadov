@@ -7,13 +7,13 @@
 <table align="center">
   <tr>
     <td>
-      <a href="README.md" style="display:flex; align-items: center; gap: 0.5em;">
+      <a href="README.md">
         <img src="assets/icons/flags/en.svg" height="23">
       </a>
     </td>
     <td>
-      <a href="README.ru.md" style="display:flex; align-items: center; gap: 0.5em;">
-        <img src="assets/icons/ru.svg" height="23">
+      <a href="README.ru.md">
+        <img src="assets/icons/flags/ru.svg" height="23">
       </a>
     </td>
   </tr>
@@ -21,15 +21,28 @@
 
 ##
 
-<p align="center">
+<p>
   <a href="https://github.com/eakhadov/eakhadov">
-    <img src="https://komarev.com/ghpvc/?username=eakhadov&style=flat" alt="page views" />
+    <img alt="Page views" src="https://komarev.com/ghpvc/?username=eakhadov&style=flat" />
+  </a>
+  <a href="https://macropower.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?style=flat&logo=read-the-docs" />
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg" />
   </a>
 </p>
 
+<a href="#eakhadov-title">
+  <img align="right" alt="eakhadov" src="https://github-readme-stats.vercel.app/api?username=eakhadov&disable_animations=true&include_all_commits=true&show_icons=true&hide_title=true&count_private=true" />
+</a>
+
+- :seedling: &nbsp;I’m currently learning **Go**
+- 📮 &nbsp;Ask me anything on my **[issues page]**
+
+<br>
+<br>
+<br>
 <br>
 
 <h2 align="left" id="my-tech">Favorite Tech</h2>
@@ -38,12 +51,6 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#my-tech">
-        <img src="assets/icons/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>
     <td align="center" width="96">
       <a href="#my-tech">
         <img src="assets/icons/go-flat.svg" width="48" height="48" alt="Golang" />
@@ -96,6 +103,12 @@
     </td>
     <td align="center"  width="96">
       <a href="#my-tech">
+        <img src="assets/icons/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>RHEL
+    </td>
+    <td align="center"  width="96">
+      <a href="#my-tech">
         <img src="assets/icons/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
@@ -103,7 +116,14 @@
   </tr>
 </table>
 
+You can see my full tech **[here]**
+
 </br>
 </br>
 
-<p align='right' font-size="3px">Build with ❤️ by <strong>@me</strong></p>
+<p font-size="3px">Made with ❤️ for <strong>Github users</strong></p>
+
+<!-- links -->
+
+[here]: https://emilakhadov.dev
+[issues page]: https://github.com/eakhadov/eakhadov/issues 'eakhadov/issues'
