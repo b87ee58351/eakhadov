@@ -22,6 +22,9 @@
       <stop stop-color="var(--bg-secondary)" />
       <stop offset="1" stop-color="var(--bg-primary)" />
     </linearGradient>
+    <script type="text/javascript">
+      console.log("2")
+    </script>
     <style type="text/css">
       svg {
         --bg-primary: #1e2d30;
@@ -135,6 +138,8 @@
         <div style="left: -3%; animation-delay: -436.39ms; height: 60.63px" opacity="64.4%"></div>
         <div style="left: 100.46%; animation-delay: -577.69ms; height: 55.66px" opacity="65%"></div>
       </div>
+      <div class="rain-container2 lightning"></div>
+      <div class="rain-container2 lightning2"></div>
       <style type="text/css">
         .outer {
           height: 325px;
@@ -154,6 +159,13 @@
           opacity: 0.5;
         }
 
+        .rain-container2 {
+          height: 325px;
+          width: 100%;
+          position: absolute;
+          opacity: 0.5;
+        }
+
         .rain-container.front {
           transform: skewX(-10deg);
         }
@@ -167,6 +179,18 @@
           animation: 2s rain linear infinite;
         }
 
+        .rain-container2.lightning
+        {
+          background: #fff;
+          animation: 3s lightning linear infinite alternate;
+        }
+
+        .rain-container2.lightning2
+        {
+          background: #fff0;
+          animation: 3.5s lightning2 linear infinite alternate-reverse;
+        }
+
         @keyframes rain {
           0% {
             transform: translateY(-450px);
@@ -178,6 +202,63 @@
 
           100% {
             transform: translateY(450px);
+          }
+        }
+
+        @keyframes lightning {
+          0% {
+            opacity: 0;
+          }
+          5% {
+            background: #fff6;
+            opacity: 0.2;
+          }
+          6% {
+            opacity: 0;
+          }
+          20% {
+            opacity: 0;
+          }
+          30% {
+            opacity: 0;
+          }
+          90% {
+            opacity: 0;
+          }
+          93% {
+            opacity: 0.2;
+          }
+          95% {
+            background: #fff4;
+            opacity: 0;
+          }
+          100% {
+            opacity: 0;
+          }
+        }
+
+        @keyframes lightning2 {
+          0% {
+            opacity: 0;
+          }
+          20% {
+            opacity: 0;
+          }
+          30% {
+            opacity: 0;
+          }
+          34% {
+            background: #fff5;
+            opacity: 0.4;
+          }
+          37% {
+            opacity: 0;
+          }
+          90% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 0;
           }
         }
       </style>

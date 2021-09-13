@@ -1,6 +1,6 @@
 <div id="banner" align="center">
   <a href="#banner">
-    <img src="assets/images/svg/header-banner.min.svg">
+    <img src="assets/images/svg/header-banner.svg">
   </a>
 </div>
 
