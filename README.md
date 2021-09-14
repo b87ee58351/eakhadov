@@ -25,6 +25,9 @@
   <a href="https://github.com/eakhadov/eakhadov">
     <img alt="Page views" src="https://komarev.com/ghpvc/?username=eakhadov&style=flat" />
   </a>
+  <a href="https://github.com/eakhadov/eakhadov">
+    <img src="https://badges.pufler.dev/visits/eakhadov/eakhadov?color=black&logo=github" />
+  </a>
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?style=flat&logo=read-the-docs" />
   </a>
@@ -39,20 +42,23 @@
   </a>
 </p>
 
-<a href="#eakhadov-title">
-  <img align="right" alt="eakhadov" src="https://github-readme-stats.vercel.app/api?username=eakhadov&disable_animations=true&include_all_commits=true&show_icons=true&hide_title=true&count_private=true" />
-</a>
-
-- :seedling: &nbsp;I’m currently learning **Go**
+- 🌱 &nbsp;I’m currently learning **Go**
 - 📮 &nbsp;Ask me anything on my **[issues page]**
-- null
+- 💓 &nbsp;Passionate with problem solving and daily routines automation.
 - null
 - null
 
+
 <br>
-<br>
-<br>
-<br>
+
+<p>
+  <a href="#eakhadov-title">
+    <img height="145px" alt="eakhadov" src="https://github-readme-stats.vercel.app/api?username=eakhadov&disable_animations=true&include_all_commits=true&show_icons=true&hide_title=true&count_private=true" />
+  </a>
+  <a>
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eakhadov&hide_title=true&langs_count=8&layout=compact" />
+  </a>
+</p>
 
 <h2 align="left" id="my-tech">Favorite Tech</h2>
 
