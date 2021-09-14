@@ -4,14 +4,14 @@
 
 <!-- Choose Lang  -->
 
-<table align="center">
+<table align="right">
   <tr>
     <td><a href="README.md"><img height="23" src="assets/icons/flags/en.svg"/></a></td>
     <td><a href="README.ru.md"><img  height="23" src="assets/icons/flags/ru.svg"/></a></td>
   </tr>
 </table>
 
-##
+<h2 align="left" id="my-tools">🦝 Hi there! How are you doing?</h2>
 
 <!-- Badges  -->
 
@@ -67,7 +67,7 @@
 
 You can see my full tech **[here]**
 
-<h2 align="left" id="github-stats">Github stats</h2>
+<h2 align="left" id="github-stats">🎯 Github stats</h2>
 
 <!-- GitHub Profile Stats -->
 
