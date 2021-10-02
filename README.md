@@ -74,8 +74,8 @@ You can see my full tech **[here]**
 <details open> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="eakhadov's Github Stats" height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=eakhadov&include_all_commits=true&show_icons=true&count_private=true&disable_animations=true"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="eakhadov's Top Languages" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eakhadov&langs_count=8&layout=compact"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="eakhadov's Github Stats" width="48.5%" height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=eakhadov&include_all_commits=true&show_icons=true&count_private=true&disable_animations=true"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="eakhadov's Top Languages" width="48.5%" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eakhadov&langs_count=8&layout=compact"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
